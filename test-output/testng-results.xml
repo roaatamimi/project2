@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-23T13:12:35 EET" name="Default suite" finished-at="2023-10-23T13:12:37 EET" duration-ms="1684">
+    <groups>
+    </groups>
+    <test started-at="2023-10-23T13:12:35 EET" name="Default test" finished-at="2023-10-23T13:12:37 EET" duration-ms="1684">
+      <class name="project2.myclass">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:project2.myclass@29e6eb25]" started-at="2023-10-23T13:12:35 EET" name="mySetup" finished-at="2023-10-23T13:12:37 EET" duration-ms="1650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="myTest()[pri:0, instance:project2.myclass@29e6eb25]" started-at="2023-10-23T13:12:37 EET" name="myTest" finished-at="2023-10-23T13:12:37 EET" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method is-config="true" signature="myAfter()[pri:0, instance:project2.myclass@29e6eb25]" started-at="2023-10-23T13:12:37 EET" name="myAfter" finished-at="2023-10-23T13:12:37 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfter -->
+      </class> <!-- project2.myclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
